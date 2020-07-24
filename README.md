@@ -1,4 +1,4 @@
-# login_app_algoworks
+# login_app
 
 A new Flutter application.
 
