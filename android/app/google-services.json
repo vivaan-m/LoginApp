@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "50210434972",
+    "firebase_url": "https://interviewproject-fd2f7.firebaseio.com",
+    "project_id": "interviewproject-fd2f7",
+    "storage_bucket": "interviewproject-fd2f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50210434972:android:5a88cfd2ead80617efe259",
+        "android_client_info": {
+          "package_name": "com.example.login_app_algoworks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50210434972-7pv098d458kva7uaaje1qu7nbt7uosc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf3o6NlJxco2ltIsBuWl0hJ2k1Rtx73iY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50210434972-7pv098d458kva7uaaje1qu7nbt7uosc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
